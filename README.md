@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on how to get https://github.com/Dragory/ZeppelinBot up and running. There are no instructions on how to self host it, and the developers won't help either.
 
-I'm always working on Minecraft Servers, so don't mind me. It's free and works! If you want plugins through Spigot, use either https://github.com/PaperMC https://papermc.io/ or https://github.com/pl3xgaming/Purpur https://purpur.pl3x.net/. For a management panel, if you have some technical knowledge, use https://github.com/pterodactyl https://pterodactyl.io/. For a good forums, use https://github.com/NamelessMC.
+I'm always working on Minecraft Servers, so don't mind me. If you want plugins through Spigot, use either https://github.com/PaperMC https://papermc.io/ or https://github.com/pl3xgaming/Purpur https://purpur.pl3x.net/. For a management panel, if you have some technical knowledge, use https://github.com/pterodactyl https://pterodactyl.io/. For a good forums, use https://github.com/NamelessMC https://namelessmc.com/.
 
 <!--
 **Dragonaere/Dragonaere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
