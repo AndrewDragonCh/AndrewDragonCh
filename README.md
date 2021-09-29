@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on making a tutorial series for vexcode for the VEX Robotics Competition. My school switched to this program, and being the best programmer, its my duty to make sure my friends know how to use it.
+🔭 I’m currently working on making a tutorial series for vexcode for the VEX Robotics Competition.
 
 🌱 I’m currently learning both JavaScript and C++, along with Unreal Engine 5 and Blender.
 
