@@ -6,6 +6,8 @@
 
 I'm always working on Minecraft Servers, so don't mind me. If you want plugins through Spigot, use either https://github.com/PaperMC https://papermc.io/ or https://github.com/pl3xgaming/Purpur https://purpur.pl3x.net/. For a management panel, if you have some technical knowledge, use https://github.com/pterodactyl https://pterodactyl.io/. For a good forums, use https://github.com/NamelessMC https://namelessmc.com/.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27YCVT)
+
 <!--
 **Dragonaere/Dragonaere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
