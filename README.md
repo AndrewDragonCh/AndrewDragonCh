@@ -5,8 +5,7 @@
 🌱 I’m currently learning both JavaScript and C++, along with Unreal Engine 5 and Blender.
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27YCVT)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R27YCVT)\
 [![Patreon](assets/Patreon.png)](https://www.patreon.com/dragonaere)
 
 <!--
