@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 🔭 I’m currently working a Discord bot called Dragonaere, written in JavaScript using Discord.JS
 
