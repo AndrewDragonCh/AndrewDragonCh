@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I’m currently working a Discord bot called Dragonaere, written in JavaScript using Discord.JS
-
 [YouTube](https://www.youtube.com/c/AndrewDragon)\
 [Twitter](https://www.twitter/com/AndrewDragonCh)
 
