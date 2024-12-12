@@ -2,4 +2,4 @@
 
 [Website](https://www.andrewstill.moe/)\
 [LinkedIn](https://www.linkedin.com/in/andrew-still-yay/)\
-[Twitter](https://www.twitter/com/AndrewStill04)
+[X/Twitter](https://www.x.com/AndrewStill04)
